@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ritaog
 - 👀 I am a Software Developer
 - 🌱 Tech Stack: HTML5, CSS3, JavaScript, React, NodeJS, ExpressJS, MongoDB, Git
-- 💞️ I’m looking to collaborate on projects
 - 📫 
 
 <!---
