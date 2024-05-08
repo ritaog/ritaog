@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ritaog
-- 👀 I am a Software Developer
-- 🌱 Tech Stack: HTML5, CSS3, JavaScript, React, NodeJS, ExpressJS, MongoDB, Git
-- 📫 
+- 🌱 Tech Stack: HTML5, CSS3, JavaScript, React, TypeScript, NextJS, NodeJS, ExpressJS, MongoDB, Git
+- 📫 you can reach me on LinkedIn => www.linkedin.com/in/rita-ogedegbe
+- 💻 Currently working as an Intermediate Software Developer
+
 
 <!---
 ritaog/ritaog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
